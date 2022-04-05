@@ -10,4 +10,6 @@ print(a*b)
 print(a/b)
 #modulus operator
 print(a%b)
+#greater than operator
+print(a>b)
 
