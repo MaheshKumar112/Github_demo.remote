@@ -14,3 +14,6 @@ print(a%b)
 print(a>b)
 #less than operator
 print(a<b)
+#not equals to operator     #in remote repo
+print(a!=b)
+
