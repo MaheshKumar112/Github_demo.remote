@@ -8,4 +8,6 @@ print(a-b)
 print(a*b)
 #division Function
 print(a/b)
+#modulus operator
+print(a%b)
 
