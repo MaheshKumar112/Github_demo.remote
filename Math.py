@@ -14,3 +14,5 @@ print(a%b)
 print(a>b)
 #less than operator
 print(a<b)
+#equals operator
+print(a==b)
