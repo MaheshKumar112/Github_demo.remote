@@ -12,4 +12,5 @@ print(a/b)
 print(a%b)
 #greater than operator
 print(a>b)
-
+#less than operator
+print(a<b)
