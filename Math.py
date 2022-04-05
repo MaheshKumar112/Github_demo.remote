@@ -11,7 +11,7 @@ print(a/b)
 #modulus operator
 print(a%b)
 #greater than operator
-print(a>b)
+print(a>b) + print(a<b)
 #less than operator
 print(a<b)
 #not equals to operator     #in remote repo
